@@ -21,25 +21,13 @@
 
 ### 🧰 Tech Toolbox  
 
-`C++` `Python` `Java` `AWS` `Azure` `Docker` `React` `gRPC` `OpenSearch` `Redis`  
+`C++` `Python` `Java` `AWS` `Azure` `Docker` `React` 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMts&layout=compact&theme=tokyonight&hide_border=true)  
-
----
-
-### ⚡ GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmazingMts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmazingMts&theme=tokyonight&hide_border=true)  
-
----
 
 ### 🧠 Fun Fact  
-
-> I love building distributed systems that feel alive — systems that talk, recover, and scale on their own.  
-> Also, I can spend hours debugging a race condition just for the dopamine hit of finally fixing it 😆  
 
 ---
 
 <!-- Optional animated footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" />
+
