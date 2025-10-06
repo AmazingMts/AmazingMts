@@ -11,8 +11,7 @@
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [**PennCloud**](https://github.com/tianshi-miao/penncloud) | A distributed key-value store powering webmail & file storage | C++ |
-| [**Flame**](https://github.com/tianshi-miao/flame) | Distributed web crawler & PageRank system across 32 EC2 nodes | Python, AWS, asyncio |
-| [**AI-Agent Platform**](https://github.com/tianshi-miao/aws-ai-agent) | Serverless doc-processing agent w/ Bedrock & OpenSearch | AWS Lambda, Cognito, S3 |
+| [**Penngle**](https://github.com/tianshi-miao/flame) | Distributed web crawler & PageRank system across 32 EC2 nodes | Python, AWS, asyncio |
 
 ---
 
@@ -22,4 +21,5 @@
 ---
 
 ### 🧠 Fun Fact
+
 
