@@ -10,16 +10,17 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [**PennCloud**](https://github.com/tianshi-miao/penncloud) | A distributed key-value store powering webmail & file storage | C++ |
-| [**Penngle**](https://github.com/tianshi-miao/flame) | Distributed web crawler & PageRank system across 32 EC2 nodes | Python, AWS, asyncio |
+| [**PennCloud**](https://github.com/AmazingMts/PennCloud) | A distributed key-value store powering webmail & file storage | C++ |
+| [**Penngle**](https://github.com/AmazingMts/Penngle) | Distributed search system | Java, AWS |
 
 ---
 
 ### 📈 Tech Toolbox
-`C++` `Python` `Azure` `AWS` `Docker` `React` `View` 
+`C++` `Python` `Azure` `AWS` `Docker` `React`  
 
 ---
 
 ### 🧠 Fun Fact
+
 
 
